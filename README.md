@@ -2,7 +2,7 @@
 
 # Overview of Project
 
-Pewlett Hackard, a very large organization has a large chunk of employees are reaching retirement age. The purpose of this analysis is to conduct a Database analysis on employee information in order to find out how many current employees will be retiring and which departments these retiring employees work in so the organization can plan accordingly. 
+Pewlett Hackard, a very large organization has a large chunk of employees are reaching retirement age. The purpose of this analysis is to conduct a Database analysis using SQL queries on PostgreSQL relational database management system, on employee information in order to find out how many current employees will be retiring and which departments these retiring employees work in so the organization can plan accordingly. 
 
 The analysis will show 
 1. The Number of Retiring Employees by Title
