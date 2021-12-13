@@ -47,14 +47,4 @@ A Mentorship Eligibility table is created that holds the employees who are eligi
 # Summary
 
 * There are 90,398 roles that will need to be filled in the next four years from Senior Engineer to Manager levels across seven designations in the company as the "Silver Tsunami" makes an impact. 
-* 1,549 employees are available for the mentorship program, to mentor 90,398 employees meaning every mentor will have ~60 employees to mentor which does not seem right which is much too large of a workload for any employee, especially part-time retiring employees. By breaking down the mentorship eligible employees by department in the query below, we can see that the employees are proportionally spread to the employees that are retiring but there is still too few employees to mentor the retiring employees.
-SELECT COUNT(title), title
-FROM mentorship_eligibility
-GROUP BY title
-ORDER BY COUNT(title) DESC;
-mentorship_eligible
-
-However if we extend the mentorship eligibility by 1 year to employees born in 1964 there are 19,905 eligible employees which is much more manageable. The 'WHERE' line of the query extending the eligible employees and visualize the department breakdown of the extended filter is shown below.
-
-WHERE (e.birth_date BETWEEN '1964-01-01' AND '1965-12-31')
-extended_eligibility
+* 1,549 employees are available for the mentorship program, to mentor 90,398 employees, which means that every mentor will have ~60 employees to mentor which is disproportionate number. 
