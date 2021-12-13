@@ -6,7 +6,7 @@ Pewlett Hackard, a very large organization has a large chunk of employees are re
 
 The analysis will show 
 1. The Number of Retiring Employees by Title
-2. Identify employees who are eligible to participate in a mentorship program.
+2. Identify retiring employees who are eligible to participate in a mentorship program.
 
 ### Resources
 * Data Sources: titles.csv, salaries.csv, employees.csv, dept_manager.csv, dept_emp.csv, departments.csv
