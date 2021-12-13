@@ -8,11 +8,11 @@ The analysis will show
 1. The Number of Retiring Employees by Title
 2. Identify employees who are eligible to participate in a mentorship program.
 
-### Entity Relationship Diagram
+### Resources
 * Data Sources: titles.csv, salaries.csv, employees.csv, dept_manager.csv, dept_emp.csv, departments.csv
 * Software: PostgreSQL 12.5, quickdatabasediagrams.com, PgAdmin 4.20
 
-# Initial Analysis
+# Entity Relationship Diagram
 An ERD (Entity Relationship Diagram) is used to visualize the relationship between the data sources and the employee structure of the company. 
 
 <img width="660" alt="EmployeeDB1" src="https://user-images.githubusercontent.com/75961057/145745495-4297741e-f7f8-4b18-a830-d0d87edc3266.png">
