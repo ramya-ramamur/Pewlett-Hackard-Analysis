@@ -47,4 +47,4 @@ A Mentorship Eligibility table is created that holds the employees who are eligi
 # Summary
 
 * There are 90,398 roles that will need to be filled in the next four years from Senior Engineer to Manager levels across seven designations in the company as the "Silver Tsunami" makes an impact. 
-* 1,549 employees are available for the mentorship program, to mentor 90,398 employees, which means that every mentor will have ~60 employees to mentor which is disproportionate number. 
+* 1,549 employees are available for the mentorship program, to mentor 90,398 employees, which means that every mentor will have ~60 employees to mentor which is disproportionate number. There are not enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
